@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Tips</string>
+
+    <string name="tips_title">TIPS</string>
+    <string name="continue_button">Continue</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+
+    <string name="empty_fields_message">"Please, make sure any of fields are not empty and try again"</string>
+    <string name="incorrect_phone_number_message">"Please, make sure you enter proper phone number"</string>
+    <string name="account_does_not_exist_message">"Please, make sure that correct credentials are used and try again"</string>
+    <string name="internet_connection_error_message">"Please, make sure the internet connection is stable and try again"</string>
+    <string name="general_error_message">"Something went wrong, try again later, please"</string>
+    <string name="icon_of_phone_number_field">icon of phone number field</string>
+    <string name="icon_of_password_field">icon of password field</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="surname_icon_field">surname icon field</string>
+    <string name="underline_for_textview">underline for textview</string>
+    <string name="phone_number_icon">phone number icon</string>
+    <string name="name_icon_field">name icon field</string>
+
+</resources>
